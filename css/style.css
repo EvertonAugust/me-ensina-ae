@@ -1,0 +1,258 @@
+body{padding: 0;
+     margin:0;
+     height: 800px;
+     background:linear-gradient(to right,rgb(0, 0, 0),rgb(0, 0, 0)) ;
+    }
+    
+    
+    
+    
+
+    nav{position: absolute;
+     display: inline-block;
+     margin: auto;
+     position: fixed;
+     top:0;
+     margin-top:auto;
+     width: 100%;
+     color: rgb(0, 80, 160);
+     background-color: rgb(123, 123, 123);}
+
+
+
+    #menu{
+        padding: 20px;
+        float: right;
+        
+        
+
+    
+    }
+
+    @font-face {
+        font-family:"Podcast";
+        src: url(../soucers/Podcast.ttf);}
+
+        @font-face {
+            font-family: "Fast Hand" ;
+            src: url(../soucers/Fast\ Hand.otf);
+        }
+
+    #logo{float:left;
+        padding: 10px;
+        font-family:"Fast Hand";
+        text-align:right;
+        font-size: 45px;
+        color: rgb(0, 0, 0);}
+
+   section a{padding:5px 10px;
+    text-decoration: none;
+    font-family:"Fast Hand";
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+
+    
+
+    a:active{color: azure;}
+
+    a:link{color: azure;}
+
+    a:hover{color: black;
+            background-color: chocolate;
+    }
+
+    main{
+        padding: 70px;
+        margin: 50px auto;
+        width: 480px;
+    }
+
+    p{border: 1px black;
+        font-size: 20px;
+        
+    
+
+    }
+
+    h1{margin: 1em 0;
+    text-shadow: 2px 1px 1px black;
+    color:red;
+    font-size: 70px;
+    font-family: "Fast Hand";
+    margin-top:150px;
+    
+    
+}
+
+article{
+margin-bottom: 60px;
+padding: 10px;
+border-radius: 4px;
+box-shadow: 1px 2px 2px 3px ;
+margin-right: -300px;
+margin-left: -300px;
+
+
+
+
+
+}
+
+article p {line-height: 1.5em;
+margin-top: -40px;
+color:whitesmoke ;
+font-weight:bold ;
+font-size:25px ;
+font-family: initial;}
+
+article h1:hover{color: rgb(104, 230, 175);
+   
+}
+
+h2:hover{color:rgb(148, 148, 148);}
+
+p:hover{color:rgb(189, 141, 136);}
+
+
+
+#assassino{background-color: beige;
+    margin-right: -300px;
+    margin-left: -300px;
+    position: inline-block;
+    
+
+}
+img{margin-bottom: 40px;
+    border-left: 20px solid #55ff00;
+    border-right: 20px solid #ff0000;
+    border-top: 20px solid #001eff;
+    border-bottom: 20px solid #f1f502;
+    margin-left: -100px;}
+
+    
+
+#computador{border-left:10px darkmagenta solid;
+            border-right: 10px darkslateblue solid;
+            border-bottom: 10px solid rgb(238, 70, 224);
+            border-top: 10px solid rgb(5, 118, 204);
+    
+}
+
+#legenda{font-size: 20px;
+margin-right: 50px;}
+
+legend{margin-bottom: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+#x{color: green;border:8px solid darkgreen;}  #play{color: darkblue;border:solid 8px blue;}  #switch{color: red;border: solid 8px orangered;}
+
+
+
+
+h2{margin-left: 340px;
+margin-right: 340px;
+margin-top: 120px;
+font-size: 45px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(255, 255, 255);
+}
+
+
+fieldset{color: rgb(209, 189, 189);
+    background-color: rgb(0, 0, 0);
+    font-weight: bold;
+    border: black solid 2px;
+
+}
+
+#formulario{font-size:30px ;
+            color: rgb(255, 255, 255);
+            margin-left: 40px;
+
+}
+
+textarea{border: silver 10px solid;
+    padding: 0;
+    margin: 0;
+margin-left: 100px;}
+
+#e-email{margin-left: 20px;
+    border: silver 5px solid;
+
+}
+#nome{margin-left: 75px;
+    border: skyblue 5px solid;
+
+}
+#idade{margin-left: 82px;
+    border: slateblue 5px solid;
+
+}
+
+#cont{margin-left: 120px;
+font-family:"Fast Hand" ;
+
+
+}
+
+#cont:hover{color: springgreen;}
+
+#contato{font-size: 100px;
+font-family:"Fast Hand";
+margin-left: 40px;
+
+}
+
+#contato:hover{color: springgreen;}
+
+button{margin-left: 100px;
+    margin-top: 40px;
+    height: 30px;
+    width: 80px;
+    font-weight: bolder;
+
+
+}
+
+label{margin-left: 110PX;
+    font-weight:bolder;
+    color: lemonchiffon;
+
+}
+
+form{margin-bottom: 200px;}
+
+h3{margin-left: 110px;
+    font-weight: bolder;
+    color: rgb(232, 233, 233);
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+#games{margin-left:120px ;
+    
+
+}
+
+#g{color: rgb(253, 253, 253);
+
+}
+
+#g:hover{color: magenta;}
+
+h3:hover{color: maroon;}
+
+label:hover{color: mediumorchid;
+
+}
+
+
+
+
