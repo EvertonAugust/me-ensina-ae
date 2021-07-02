@@ -1,0 +1,71 @@
+
+
+main{
+    margin-top: 80px;
+
+
+}
+
+.nav-link{font-family: "Fast Hand";}
+
+.navbar-brand{font-family: "Fast Hand";}
+
+  
+.slide{width: 600px;
+    margin: auto;
+   
+    
+    
+
+    
+
+}
+
+
+.fonte{font-family: "Fast Hand";
+    font-size: 55px;
+
+}
+
+
+
+
+
+.tam{height: 460px;
+    
+    
+
+}
+
+
+
+
+@font-face {
+    font-family:"Fast Hand";
+    src: url(../soucers/Fast\ Hand.otf);}
+
+
+p{font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-weight:700;
+    font-size: 20px;
+
+}
+
+body{background-color: black;
+    height: auto;
+    width: 1350px;
+    
+
+}
+    main{margin: 100px;
+        padding: 0;
+    
+    }
+
+    #ajuste{margin: 30px;}
+
+    .tamanho{height: 320px;}
+
+    

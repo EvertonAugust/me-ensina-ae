@@ -2,10 +2,16 @@ body{padding: 0;
      margin:0;
      height: 800px;
      background:linear-gradient(to right,rgb(0, 0, 0),rgb(0, 0, 0)) ;
-     width: auto;
+     
+    }
+
+    h5{color: black;
+    font-weight: bold;
     }
     
-    
+    .tam{width: 50px;}
+
+    #area-navegacao{position:relative;}
     
     
 
@@ -49,22 +55,27 @@ body{padding: 0;
    section a{padding:5px 10px;
     text-decoration: none;
     font-family:"Fast Hand";
-    font-size: 25px;
+    font-size: 24px;
     color: rgb(255, 255, 255);
     
 
 }
 
 
+
     
+
+
+
+
+
 
     a:active{color: azure;}
 
     a:link{color: azure;}
 
     a:hover{color: black;
-            background-color: chocolate;
-    }
+            background-color: chocolate;}
 
     main{
         padding: 70px;
@@ -84,7 +95,7 @@ body{padding: 0;
     color:red;
     font-size: 70px;
     font-family: "Fast Hand";
-    margin-top:150px;
+    margin-top:60px;
     
     
 }
@@ -92,8 +103,6 @@ body{padding: 0;
 article{
 margin-bottom: 60px;
 padding: 10px;
-border-radius: 4px;
-box-shadow: 1px 2px 2px 3px ;
 margin-right: -300px;
 margin-left: -300px;
 
@@ -127,7 +136,7 @@ p:hover{color:rgb(189, 141, 136);}
     
 
 }
-img{margin-bottom: 40px;
+#jogo{margin-bottom: 40px;
     border-left: 20px solid #55ff00;
     border-right: 20px solid #ff0000;
     border-top: 20px solid #001eff;
@@ -251,6 +260,11 @@ h3{margin-left: 110px;
 h3:hover{color: maroon;}
 
 label:hover{color: mediumorchid;
+
+}
+
+.sobremim{background-color: black;
+    
 
 }
 
